@@ -1,0 +1,9 @@
+#!/bin/sh
+mrt add iron-router
+mrt add iron-router-progress
+mrt add spin
+mrt add accounts-ui-bootstrap-dropdown
+mrt add accounts-password
+mrt add npm
+mrt add coffeescript
+mrt add less
